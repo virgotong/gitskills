@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test branch and feature
-=======
-test branch and feature
->>>>>>> feature
+test branch 
